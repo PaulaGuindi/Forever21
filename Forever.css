@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+body {
+    background-image: url(http://www.fashiongonerogue.com/wp-content/uploads/2017/01/Forever-21-Spring-2017-Campaign02.jpg)
+}
+.title {
+    text-align: center; 
+    font-weight: bold; 
+    font-size:350%;
+    font-family: 'Amiri', serif;
+}
+.buttons {
+    font-size: 250%; 
+    font-weight: bold;
+    font-family: 'Amiri', serif;
+}
+.p {
+    text-align: center; 
+    font-weight: bold; 
+    font-size:200%;
+    font-family: 'Amiri', serif;
+}
